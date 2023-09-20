@@ -8,8 +8,10 @@ LegalEase, our pioneering legal tech platform, embodies the future of accessible
 LegalEase's innovative chatbot, interactive chatbox, and real-time updates offer an unparalleled user experience, empowering individuals and businesses. Its scalability, robust technology stack, and commitment to user feedback position it as a market leader. From individuals seeking advice to organizations requiring specialized counsel, LegalEase caters to all.\
 In conclusion, LegalEase's visionary approach, defensibility, and niche positioning signify its potential to transform the legal services landscape, benefitting thousands globally. Its advanced tech stack reinforces client security, paving the way for a future where legal support is just a click away.
 
-## Presentation 
+## Presentation and Demonstration
 [Legal Ease PPT](https://drive.google.com/file/d/1AUda2efRmrk-GEpUSZ_0nmG7TncdezGi/view?usp=sharing)
+[Demo](https://drive.google.com/drive/folders/1xn_okfz-xcBPgyWzkmaErj-l7GAu12Lv?usp=sharing)
+
 ## Code Resources
 [Legal Ease backend](https://github.com/PranavChauhan22/legal-ease-backend) \
 [Legal Ease Portal](https://github.com/PranavChauhan22/legal-ease)
