@@ -1,5 +1,5 @@
 # Legal Ease (SIH Problem Statement)
-
+Team Name : Vortex \
 Problem ID and Theme: SIH1286 and Miscellaneous \
 Problem Statement: Incentives based design for onboarding Legal Service Providers such as Advocates, Arbitrators, and Mediators on e-Market Place for extending Legal Services to Citizens in India.
 
